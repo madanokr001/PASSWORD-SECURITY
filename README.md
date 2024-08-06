@@ -2,8 +2,7 @@
 **NOOB**
 
 # 어떻게 사용하나요?
-
-git clone git clone https://github.com/madanokr001/PASSWORD-SECURITY.git
+git clone https://github.com/madanokr001/PASSWORD-SECURITY.git
 
 cd PASSWORD-SECURITY
 
